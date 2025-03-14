@@ -17,6 +17,14 @@ int main() {
 
     printf("Perimeter of the rectangle = %d inches\n", perimeter);
     printf("Area of the rectangle      = %d square inches\n", area);
+  int height= 7, width= 5;
+  int perimeter, area;
+  perimeter = 2*(height + width);
+  area= height * width;
+
+  printf("Perimeter of the rectangle = %d inches\n", perimeter);
+  printf("Area of the rectangle= %d square inches\n", area);
+
 
 
   int height = 7;
