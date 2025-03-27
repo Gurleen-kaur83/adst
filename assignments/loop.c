@@ -17,13 +17,13 @@ int main () {
 //  }
 //}
 //
-//int a = 0;
-//
-//do {
-//  printf("%d\n", a);
-//  a++;
-//}
-//while (a < 5);
+int a = 0;
+
+do {
+  printf("%d\n", a);
+  a++;
+}
+while (a < 5);
 
 
 //  for (int i = 0; i <= 10; i+=2) {

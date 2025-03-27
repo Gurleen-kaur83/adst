@@ -17,6 +17,14 @@ int main() {
     // printf("The second number is: %d\n", num2);
     // sum = num1 + num2;
     // printf("Sum of the above two number is = %d\n", sum);
+    int num2 = 50;
+    int sum;
+
+    printf("The first number is: %d\n", num1);
+    printf("The second number is: %d\n", num2);
+
+    sum = num1 + num2;
+    printf("The sum is: %d\n", sum);
 
     int multiply = num1*num2;
     float divide = (float)num1 / num2;
@@ -24,6 +32,6 @@ int main() {
     printf("The second number is: %d\n", num2);
     printf("The multiplication is: %d\n", multiply);
     printf("The division is: %.2f\n", divide);
-
+    printf ("The sum is: %d\n", sum);
     return 0;
 }

@@ -16,5 +16,9 @@ int main() {
 
     printf("Name     : Gurleen\nDOB      : April 29, 2008 \nSchool   : Gobind Sarvar\n");
    
+     printf("Name   : Hasleen Kaur\n");
+     printf("DOB    : April 27, 2009\n");
+     printf("School : Gobind Sarvar\n");
+
     return 0;
 }

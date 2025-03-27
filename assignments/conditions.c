@@ -29,5 +29,13 @@ int main() {
         printf("Sorry! You cannot get a license, yet\n");
       }
 
+    int age = 21;
+
+    if(age >= 18) {
+      printf("Congratulations! You are eligible for casting your vote.");
+    } else {
+      printf("Sorry, you cannot vote!");
+    }
+   // int age = 15;
     return 0;
 }
